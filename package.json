@@ -1,0 +1,17 @@
+{
+  "name": "tf8-trade-replay",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test engine.test.js"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "dependencies": {
+    "discord.js": "14.27.0",
+    "sharp": "^0.34.0"
+  }
+}
